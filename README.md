@@ -2,7 +2,7 @@
 Projects I completed at the University of Michigan. *Code to projects can be provided upon request.*
 
 ## Data Structures & Algorithms Projects
-### Language(s): C++
+#### Language(s): C++
 
 * Transfer one word into another given valid dictionary of words (Path Finding)
 * Sorted, Binary Heap, Pairing Heap Priority Queues
@@ -10,7 +10,7 @@ Projects I completed at the University of Michigan. *Code to projects can be pro
 * Minimum Spanning Tree and Traveling Salesperson using Branch and Bound Algorithms
 
 ## Computer Security Projects
-### Language(s): Python, HTML, JavaScript, SQL, command line
+#### Language(s): Python, HTML, JavaScript, SQL, command line
 
 * Crypto Project, cracking passwords
 * Web Project, executing successful web attacks such as SQL injection, XSS, CSRF with varying levels of security
@@ -19,13 +19,13 @@ Projects I completed at the University of Michigan. *Code to projects can be pro
 * Forensics Project, using command line to analyze computer activity and understand attacks on computer
 
 ## Web Development Projects
-### Language(s): Python, C++, Javascript, SQL and HTML/CSS
+#### Language(s): Python, C++, Javascript, SQL and HTML/CSS
 
 * Interactive Web Application using sessions and JavaScript
 * Large-scale Web search engine, roughly comparable to Wikipedia
 
 ## Assembly Projects
-### Language(s): C, instructional assembly langage
+#### Language(s): C, instructional assembly langage
 
 * Assembler simulator: takes an assembly-language program and translates it into machine language
 * Program to simulate machine code programs (input machine code)
