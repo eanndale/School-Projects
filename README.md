@@ -1,5 +1,5 @@
 # School-Projects
-Projects I completed at the University of Michigan. *Code to projects can be provided upon request*
+Projects I completed at the University of Michigan. *Code to projects can be provided upon request.*
 
 ## Data Structures & Algorithms Projects
 ### Language(s): C++
