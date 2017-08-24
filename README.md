@@ -19,7 +19,7 @@ Projects I completed at the University of Michigan. *Code to projects can be pro
 * Forensics Project: using command line to analyze computer activity and understand cyberattacks
 
 ## Web Development Projects
-#### Language(s): Python, Javascript, SQL ,and HTML/CSS
+#### Language(s): Python, Javascript, SQL, and HTML/CSS
 
 * Photo Album Interactive Web Application using User sessions for public/private data
 * Large-scale Web search engine, roughly comparable to Google
