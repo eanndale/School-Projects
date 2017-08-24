@@ -6,7 +6,7 @@ Projects I completed at the University of Michigan. *Code to projects can be pro
 
 * Transfer one word into another given valid dictionary of words (Path Finding)
 * Sorted, Binary Heap, Pairing Heap Priority Queues
-* SQL Database Implementation (create, insert, delete, generate index, print, join, remove commands)
+* Database Implementation (create, insert, delete, generate index, print, join, remove commands)
 * Minimum Spanning Tree and Traveling Salesperson using Branch and Bound Algorithms
 
 ## Computer Security Projects
